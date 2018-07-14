@@ -36,7 +36,7 @@
 	"dependencies": {
 		"babel-preset-env": "^1.7.0",
 		"decode-uri-component": "^0.2.0",
-		"strict-uri-encode": "^2.0.0"
+		"strict-uri-encode": "git+https://github.com/aradnom/strict-uri-encode.git"
 	},
 	"devDependencies": {
 		"ava": "*",
