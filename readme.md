@@ -1,3 +1,9 @@
+# IMPORTANT NOTE
+
+This fork has been converted to ES5 of purposes of compiling the package with other vanilla JS packages. *DO NOT MAKE CONTRIBUTIONS TO THIS FORK DIRECTLY.*
+
+Pulling any master changes directly into index.js will explode horribly.
+
 # query-string [![Build Status](https://travis-ci.org/sindresorhus/query-string.svg?branch=master)](https://travis-ci.org/sindresorhus/query-string)
 
 > Parse and stringify URL [query strings](https://en.wikipedia.org/wiki/Query_string)
